@@ -1,0 +1,470 @@
+[
+  {
+    "region": "europe",
+    "flag": "🇦🇱",
+    "name": "Albanie",
+    "url": "https://iptv-org.github.io/iptv/countries/al.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇦🇩",
+    "name": "Andorre",
+    "url": "https://iptv-org.github.io/iptv/countries/ad.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇦🇹",
+    "name": "Autriche",
+    "url": "https://iptv-org.github.io/iptv/countries/at.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇧🇾",
+    "name": "Biélorussie",
+    "url": "https://iptv-org.github.io/iptv/countries/by.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇧🇪",
+    "name": "Belgique",
+    "url": "https://iptv-org.github.io/iptv/countries/be.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇧🇦",
+    "name": "Bosnie-Herzégovine",
+    "url": "https://iptv-org.github.io/iptv/countries/ba.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇧🇬",
+    "name": "Bulgarie",
+    "url": "https://iptv-org.github.io/iptv/countries/bg.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇭🇷",
+    "name": "Croatie",
+    "url": "https://iptv-org.github.io/iptv/countries/hr.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇨🇾",
+    "name": "Chypre",
+    "url": "https://iptv-org.github.io/iptv/countries/cy.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇨🇿",
+    "name": "République Tchèque",
+    "url": "https://iptv-org.github.io/iptv/countries/cz.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇩🇰",
+    "name": "Danemark",
+    "url": "https://iptv-org.github.io/iptv/countries/dk.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇪🇪",
+    "name": "Estonie",
+    "url": "https://iptv-org.github.io/iptv/countries/ee.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇫🇮",
+    "name": "Finlande",
+    "url": "https://iptv-org.github.io/iptv/countries/fi.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇫🇷",
+    "name": "France",
+    "url": "https://iptv-org.github.io/iptv/countries/fr.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇩🇪",
+    "name": "Allemagne",
+    "url": "https://iptv-org.github.io/iptv/countries/de.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇬🇷",
+    "name": "Grèce",
+    "url": "https://iptv-org.github.io/iptv/countries/gr.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇭🇺",
+    "name": "Hongrie",
+    "url": "https://iptv-org.github.io/iptv/countries/hu.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇮🇸",
+    "name": "Islande",
+    "url": "https://iptv-org.github.io/iptv/countries/is.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇮🇪",
+    "name": "Irlande",
+    "url": "https://iptv-org.github.io/iptv/countries/ie.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇮🇹",
+    "name": "Italie",
+    "url": "https://iptv-org.github.io/iptv/countries/it.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇽🇰",
+    "name": "Kosovo",
+    "url": "https://iptv-org.github.io/iptv/countries/xk.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇱🇻",
+    "name": "Lettonie",
+    "url": "https://iptv-org.github.io/iptv/countries/lv.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇱🇹",
+    "name": "Lituanie",
+    "url": "https://iptv-org.github.io/iptv/countries/lt.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇱🇺",
+    "name": "Luxembourg",
+    "url": "https://iptv-org.github.io/iptv/countries/lu.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇲🇹",
+    "name": "Malte",
+    "url": "https://iptv-org.github.io/iptv/countries/mt.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇲🇩",
+    "name": "Moldavie",
+    "url": "https://iptv-org.github.io/iptv/countries/md.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇲🇨",
+    "name": "Monaco",
+    "url": "https://iptv-org.github.io/iptv/countries/mc.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇲🇪",
+    "name": "Monténégro",
+    "url": "https://iptv-org.github.io/iptv/countries/me.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇳🇱",
+    "name": "Pays-Bas",
+    "url": "https://iptv-org.github.io/iptv/countries/nl.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇲🇰",
+    "name": "Macédoine du Nord",
+    "url": "https://iptv-org.github.io/iptv/countries/mk.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇳🇴",
+    "name": "Norvège",
+    "url": "https://iptv-org.github.io/iptv/countries/no.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇵🇱",
+    "name": "Pologne",
+    "url": "https://iptv-org.github.io/iptv/countries/pl.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇵🇹",
+    "name": "Portugal",
+    "url": "https://iptv-org.github.io/iptv/countries/pt.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇷🇴",
+    "name": "Roumanie",
+    "url": "https://iptv-org.github.io/iptv/countries/ro.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇷🇺",
+    "name": "Russie",
+    "url": "https://iptv-org.github.io/iptv/countries/ru.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇸🇲",
+    "name": "Saint-Marin",
+    "url": "https://iptv-org.github.io/iptv/countries/sm.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇷🇸",
+    "name": "Serbie",
+    "url": "https://iptv-org.github.io/iptv/countries/rs.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇸🇰",
+    "name": "Slovaquie",
+    "url": "https://iptv-org.github.io/iptv/countries/sk.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇸🇮",
+    "name": "Slovénie",
+    "url": "https://iptv-org.github.io/iptv/countries/si.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇪🇸",
+    "name": "Espagne",
+    "url": "https://iptv-org.github.io/iptv/countries/es.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇸🇪",
+    "name": "Suède",
+    "url": "https://iptv-org.github.io/iptv/countries/se.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇨🇭",
+    "name": "Suisse",
+    "url": "https://iptv-org.github.io/iptv/countries/ch.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇺🇦",
+    "name": "Ukraine",
+    "url": "https://iptv-org.github.io/iptv/countries/ua.m3u"
+  },
+  {
+    "region": "europe",
+    "flag": "🇬🇧",
+    "name": "Royaume-Uni",
+    "url": "https://iptv-org.github.io/iptv/countries/uk.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇦🇷",
+    "name": "Argentine",
+    "url": "https://iptv-org.github.io/iptv/countries/ar.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇧🇷",
+    "name": "Brésil",
+    "url": "https://iptv-org.github.io/iptv/countries/br.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇨🇦",
+    "name": "Canada",
+    "url": "https://iptv-org.github.io/iptv/countries/ca.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇨🇷",
+    "name": "Costa Rica",
+    "url": "https://iptv-org.github.io/iptv/countries/cr.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇩🇴",
+    "name": "République Dominicaine",
+    "url": "https://iptv-org.github.io/iptv/countries/do.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇲🇽",
+    "name": "Mexique",
+    "url": "https://iptv-org.github.io/iptv/countries/mx.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇵🇾",
+    "name": "Paraguay",
+    "url": "https://iptv-org.github.io/iptv/countries/py.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇵🇪",
+    "name": "Pérou",
+    "url": "https://iptv-org.github.io/iptv/countries/pe.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇹🇹",
+    "name": "Trinité-et-Tobago",
+    "url": "https://iptv-org.github.io/iptv/countries/tt.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇺🇸",
+    "name": "États-Unis",
+    "url": "https://iptv-org.github.io/iptv/countries/us.m3u"
+  },
+  {
+    "region": "amerique",
+    "flag": "🇻🇪",
+    "name": "Venezuela",
+    "url": "https://iptv-org.github.io/iptv/countries/ve.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇦🇲",
+    "name": "Arménie",
+    "url": "https://iptv-org.github.io/iptv/countries/am.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇦🇺",
+    "name": "Australie",
+    "url": "https://iptv-org.github.io/iptv/countries/au.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇦🇿",
+    "name": "Azerbaïdjan",
+    "url": "https://iptv-org.github.io/iptv/countries/az.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇨🇳",
+    "name": "Chine",
+    "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇫🇴",
+    "name": "Îles Féroé",
+    "url": "https://iptv-org.github.io/iptv/countries/fo.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇬🇪",
+    "name": "Géorgie",
+    "url": "https://iptv-org.github.io/iptv/countries/ge.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇬🇱",
+    "name": "Groenland",
+    "url": "https://iptv-org.github.io/iptv/countries/gl.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇭🇰",
+    "name": "Hong Kong",
+    "url": "https://iptv-org.github.io/iptv/countries/hk.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇮🇳",
+    "name": "Inde",
+    "url": "https://iptv-org.github.io/iptv/countries/in.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇮🇩",
+    "name": "Indonésie",
+    "url": "https://iptv-org.github.io/iptv/countries/id.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇯🇵",
+    "name": "Japon",
+    "url": "https://iptv-org.github.io/iptv/countries/jp.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇰🇷",
+    "name": "Corée du Sud",
+    "url": "https://iptv-org.github.io/iptv/countries/kr.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇲🇴",
+    "name": "Macao",
+    "url": "https://iptv-org.github.io/iptv/countries/mo.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇰🇵",
+    "name": "Corée du Nord",
+    "url": "https://iptv-org.github.io/iptv/countries/kp.m3u"
+  },
+  {
+    "region": "asie",
+    "flag": "🇹🇼",
+    "name": "Taïwan",
+    "url": "https://iptv-org.github.io/iptv/countries/tw.m3u"
+  },
+  {
+    "region": "moyenorient",
+    "flag": "🇮🇷",
+    "name": "Iran",
+    "url": "https://iptv-org.github.io/iptv/countries/ir.m3u"
+  },
+  {
+    "region": "moyenorient",
+    "flag": "🇮Iraq",
+    "name": "Irak",
+    "url": "https://iptv-org.github.io/iptv/countries/iq.m3u"
+  },
+  {
+    "region": "moyenorient",
+    "flag": "🇮🇱",
+    "name": "Israël",
+    "url": "https://iptv-org.github.io/iptv/countries/il.m3u"
+  },
+  {
+    "region": "moyenorient",
+    "flag": "🇶🇦",
+    "name": "Qatar",
+    "url": "https://iptv-org.github.io/iptv/countries/qa.m3u"
+  },
+  {
+    "region": "moyenorient",
+    "flag": "🇹🇷",
+    "name": "Turquie",
+    "url": "https://iptv-org.github.io/iptv/countries/tr.m3u"
+  },
+  {
+    "region": "moyenorient",
+    "flag": "🇦UAE",
+    "name": "Émirats Arabes Unis",
+    "url": "https://iptv-org.github.io/iptv/countries/ae.m3u"
+  },
+  {
+    "region": "afrique",
+    "flag": "🇹Chad",
+    "name": "Tchad",
+    "url": "https://iptv-org.github.io/iptv/countries/td.m3u"
+  },
+  {
+    "region": "afrique",
+    "flag": "🇸Somalia",
+    "name": "Somalie",
+    "url": "https://iptv-org.github.io/iptv/countries/so.m3u"
+  }
+]

@@ -7,10 +7,10 @@ interface RegionTabsProps {
 
 const regions = [
   { id: 'europe', name: 'Europe' },
-  { id: 'americas', name: 'Amériques' },
-  { id: 'asia', name: 'Asie' },
-  { id: 'mideast', name: 'Moyen-Orient' },
-  { id: 'africa', name: 'Afrique' },
+  { id: 'amerique', name: 'Amériques' },
+  { id: 'asie', name: 'Asie' },
+  { id: 'moyenorient', name: 'Moyen-Orient' },
+  { id: 'afrique', name: 'Afrique' },
 ];
 
 const RegionTabs: React.FC<RegionTabsProps> = ({ activeRegion, setActiveRegion }) => {

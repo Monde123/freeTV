@@ -45,7 +45,7 @@ const App: React.FC = () => {
 
         <section id="playlist" className="section">
           <div className="s-label">📡 Liens M3U8</div>
-          <h2 className="s-title" style={{ fontSize: '32px', marginBottom: '24px' }}>PLAYLISTS PAR PAYS</h2>
+          <h2 className="s-title">PLAYLISTS PAR PAYS</h2>
           <p className="s-intro">
             Copiez l'URL M3U8 correspondante et collez-la dans votre lecteur IPTV (VLC, TiviMate, OTT Navigator). 
             Tous nos flux proviennent de sources officielles et sont 100% légaux.
@@ -69,37 +69,84 @@ const App: React.FC = () => {
 
         <section id="guide" className="section">
           <div className="s-label">📖 Tutoriel</div>
-          <h2 className="s-title" style={{ fontSize: '32px', marginBottom: '24px' }}>COMMENT UTILISER VLC</h2>
+          <h2 className="s-title">COMMENT UTILISER VLC</h2>
           
           <div className="steps-grid">
             <div className="step-card">
+              <div className="step-img-slot has-image">
+                <img src="/images/step1.png" alt="Télécharger VLC" />
+              </div>
               <div className="step-body">
                 <div className="step-num">1</div>
                 <div className="step-title">Télécharger VLC</div>
-                <p className="step-desc">Installez VLC Media Player sur votre ordinateur ou mobile.</p>
+                <p className="step-desc">Installez VLC Media Player sur votre ordinateur ou mobile depuis le site officiel.</p>
               </div>
             </div>
             <div className="step-card">
+              <div className="step-img-slot has-image">
+                <img src="/images/step2.png" alt="Ouvrir flux réseau" />
+              </div>
               <div className="step-body">
                 <div className="step-num">2</div>
                 <div className="step-title">Ouvrir un flux réseau</div>
-                <p className="step-desc">Allez dans Média {'>'} Ouvrir un flux réseau (Ctrl+N).</p>
+                <p className="step-desc">Allez dans le menu Média {'>'} Ouvrir un flux réseau ou utilisez le raccourci (Ctrl+N).</p>
               </div>
             </div>
             <div className="step-card">
+              <div className="step-img-slot has-image">
+                <img src="/images/step3.png" alt="Coller l'URL" />
+              </div>
               <div className="step-body">
                 <div className="step-num">3</div>
                 <div className="step-title">Coller l'URL</div>
-                <p className="step-desc">Collez l'URL M3U8 copiée sur ce site.</p>
+                <p className="step-desc">Collez l'URL M3U8 copiée sur ce site dans le champ 'Entrer une URL réseau'.</p>
               </div>
             </div>
             <div className="step-card">
+              <div className="step-img-slot has-image">
+                <img src="/images/step4.png" alt="Profiter" />
+              </div>
               <div className="step-body">
                 <div className="step-num">4</div>
                 <div className="step-title">Profiter</div>
-                <p className="step-desc">Appuyez sur 'Lire' et naviguez entre les chaînes via la playlist.</p>
+                <p className="step-desc">Appuyez sur 'Lire'. Naviguez entre les chaînes via la liste de lecture (Vue {'>'} Liste de lecture).</p>
               </div>
             </div>
+          </div>
+        </section>
+
+        <section id="players" className="section">
+          <div className="s-label">📱 Applications</div>
+          <h2 className="s-title">LECTEURS RECOMMANDÉS</h2>
+          <p className="s-intro">
+            Voici les meilleures applications pour lire vos listes M3U8 sur tous vos appareils.
+          </p>
+
+          <div className="players-grid">
+            <a href="https://www.videolan.org/" target="_blank" rel="noopener noreferrer" className="player-card">
+              <span className="player-icon">🧡</span>
+              <span className="player-name">VLC Media Player</span>
+              <span className="player-platform">Windows, Mac, Android, iOS</span>
+              <span className="player-badge badge-recommended">Recommandé</span>
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=ar.tvplayer.tv" target="_blank" rel="noopener noreferrer" className="player-card">
+              <span className="player-icon">💎</span>
+              <span className="player-name">TiviMate</span>
+              <span className="player-platform">Android TV, Fire TV</span>
+              <span className="player-badge badge-free">Version Gratuite</span>
+            </a>
+            <a href="https://ottnavigator.com/" target="_blank" rel="noopener noreferrer" className="player-card">
+              <span className="player-icon">🚀</span>
+              <span className="player-name">OTT Navigator</span>
+              <span className="player-platform">Android, Android TV</span>
+              <span className="player-badge badge-free">Gratuit</span>
+            </a>
+            <a href="https://siptv.app/" target="_blank" rel="noopener noreferrer" className="player-card">
+              <span className="player-icon">📺</span>
+              <span className="player-name">Smart IPTV</span>
+              <span className="player-platform">Smart TV (Samsung, LG)</span>
+              <span className="player-badge badge-free">Période d'essai</span>
+            </a>
           </div>
         </section>
       </main>

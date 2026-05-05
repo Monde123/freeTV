@@ -427,7 +427,7 @@
   },
   {
     "region": "moyenorient",
-    "flag": "🇮Iraq",
+    "flag": "🇮🇶",
     "name": "Irak",
     "url": "https://iptv-org.github.io/iptv/countries/iq.m3u"
   },
@@ -451,19 +451,19 @@
   },
   {
     "region": "moyenorient",
-    "flag": "🇦UAE",
+    "flag": "🇦🇪",
     "name": "Émirats Arabes Unis",
     "url": "https://iptv-org.github.io/iptv/countries/ae.m3u"
   },
   {
     "region": "afrique",
-    "flag": "🇹Chad",
+    "flag": "🇹🇩",
     "name": "Tchad",
     "url": "https://iptv-org.github.io/iptv/countries/td.m3u"
   },
   {
     "region": "afrique",
-    "flag": "🇸Somalia",
+    "flag": "🇸🇴",
     "name": "Somalie",
     "url": "https://iptv-org.github.io/iptv/countries/so.m3u"
   }

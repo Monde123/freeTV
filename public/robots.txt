@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://freetv-iptv.vercel.app/sitemap.xml
+Sitemap: https://freetv.mokdo.click/sitemap.xml

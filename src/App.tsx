@@ -24,7 +24,7 @@ const App: React.FC = () => {
           content="Accédez aux meilleures listes IPTV gratuites et légales. Plus de 8000 chaînes mondiales classées par pays. Liens M3U8 officiels de iptv-org." 
         />
         <meta name="keywords" content="IPTV, M3U8, TV gratuite, chaînes mondiales, VLC, IPTV-org, streaming légal" />
-        <link rel="canonical" href="https://freetv-iptv.vercel.app/" />
+        <link rel="canonical" href="https://freetv.mokdo.click/" />
         
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />

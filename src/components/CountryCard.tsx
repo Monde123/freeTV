@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
 interface CountryCardProps {
   flag: string;
@@ -8,6 +9,7 @@ interface CountryCardProps {
 
 const CountryCard: React.FC<CountryCardProps> = ({ flag, name, url }) => {
   const [copied, setCopied] = useState(false);
+  const { t } = useTranslation();
 
   const handleCopy = () => {
     navigator.clipboard.writeText(url);
@@ -26,7 +28,7 @@ const CountryCard: React.FC<CountryCardProps> = ({ flag, name, url }) => {
         className={`copy-small ${copied ? 'copied' : ''}`}
         onClick={handleCopy}
       >
-        {copied ? 'Copié !' : 'Copier'}
+        {copied ? t('playlist.copied') : t('playlist.copyShort')}
       </button>
     </div>
   );

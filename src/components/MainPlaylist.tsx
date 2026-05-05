@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
 const MainPlaylist: React.FC = () => {
   const [copied, setCopied] = useState(false);
+  const { t } = useTranslation();
   const mainUrl = 'https://iptv-org.github.io/iptv/index.m3u';
 
   const handleCopy = () => {
@@ -12,14 +14,14 @@ const MainPlaylist: React.FC = () => {
 
   return (
     <div className="main-playlist">
-      <h3>Accès universel</h3>
+      <h3>{t('playlist.universal')}</h3>
       <div className="url-row">
         <span className="url-text">{mainUrl}</span>
         <button
           className={`copy-btn ${copied ? 'copied' : ''}`}
           onClick={handleCopy}
         >
-          {copied ? 'Copié !' : 'Copier l\'URL'}
+          {copied ? t('playlist.copied') : t('playlist.copy')}
         </button>
       </div>
     </div>

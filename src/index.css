@@ -218,7 +218,7 @@
 
       .hero-title {
         font-family: "Bebas Neue", sans-serif;
-        font-size: clamp(60px, 12vw, 130px);
+        font-size: clamp(52px, 12vw, 122px);
         line-height: 0.9;
         letter-spacing: 4px;
         color: var(--white);
@@ -233,7 +233,7 @@
       }
 
       .hero-sub {
-        font-size: 16px;
+        font-size: 8px;
         color: var(--muted);
         max-width: 520px;
         margin: 20px auto 40px;

@@ -1,4 +1,5 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 interface RegionTabsProps {
   activeRegion: string;
@@ -14,6 +15,8 @@ const regions = [
 ];
 
 const RegionTabs: React.FC<RegionTabsProps> = ({ activeRegion, setActiveRegion }) => {
+  const { t } = useTranslation();
+
   return (
     <div className="region-tabs">
       {regions.map((region) => (
@@ -22,7 +25,7 @@ const RegionTabs: React.FC<RegionTabsProps> = ({ activeRegion, setActiveRegion }
           className={`rtab ${activeRegion === region.id ? 'active' : ''}`}
           onClick={() => setActiveRegion(region.id)}
         >
-          {region.name}
+          {t(`playlist.regions.${region.id}`, { defaultValue: region.name })}
         </button>
       ))}
     </div>

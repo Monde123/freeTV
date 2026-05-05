@@ -1,7 +1,10 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import { useTranslation } from 'react-i18next';
 
 const Hero: React.FC = () => {
+  const { t } = useTranslation();
+
   return (
     <section id="hero">
       <div className="hero-bg"></div>
@@ -14,7 +17,7 @@ const Hero: React.FC = () => {
         transition={{ duration: 0.5 }}
       >
         <div className="live-dot"></div>
-        LIVE & GRATUIT
+        {t('hero.chip')}
       </motion.div>
 
       <motion.h1 
@@ -23,7 +26,7 @@ const Hero: React.FC = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.2 }}
       >
-        LA TÉLÉVISION <span className="accent-word">MONDIALE</span>
+        {t('hero.title')} <span className="accent-word">{t('hero.accent')}</span>
       </motion.h1>
 
       <motion.p 
@@ -32,8 +35,7 @@ const Hero: React.FC = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.4 }}
       >
-        Accédez instantanément à des milliers de chaînes gratuites du monde entier. 
-        Des listes de lecture M3U8 officielles et mises à jour en permanence.
+        {t('hero.sub')}
       </motion.p>
 
       <motion.div 
@@ -44,15 +46,15 @@ const Hero: React.FC = () => {
       >
         <div className="stat">
           <span className="stat-n">190+</span>
-          <span className="stat-l">Pays</span>
+          <span className="stat-l">{t('hero.stats.countries')}</span>
         </div>
         <div className="stat">
           <span className="stat-n">8k+</span>
-          <span className="stat-l">Chaînes</span>
+          <span className="stat-l">{t('hero.stats.channels')}</span>
         </div>
         <div className="stat">
           <span className="stat-n">100%</span>
-          <span className="stat-l">Légal</span>
+          <span className="stat-l">{t('hero.stats.legal')}</span>
         </div>
       </motion.div>
 
@@ -65,7 +67,7 @@ const Hero: React.FC = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.8 }}
       >
-        Voir les playlists
+        {t('hero.button')}
       </motion.a>
     </section>
   );
